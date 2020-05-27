@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480826908821",
+    "firebase_url": "https://myride-d4127.firebaseio.com",
+    "project_id": "myride-d4127",
+    "storage_bucket": "myride-d4127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480826908821:android:b925c7080fc09e72a6bb9c",
+        "android_client_info": {
+          "package_name": "com.example.myride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480826908821-duuauvqn38mu8sqdns2h58i7847pbsd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myride",
+            "certificate_hash": "bcaa3f621a3f1cfe3e5640feaed26282b3037295"
+          }
+        },
+        {
+          "client_id": "480826908821-v7ifb5ge3orpp9f9o0ivdl6dp4417fi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxilpp8GuezuABdaYWjZPGl2M9DpFLpTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480826908821-v7ifb5ge3orpp9f9o0ivdl6dp4417fi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
